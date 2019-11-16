@@ -1,6 +1,6 @@
 # Various_projects
 Projects from NTNU and other miscellaneous projects
-Author contribution statements (if any) are listed in each project respectively.
+
 
 
 Disclaimer: 
