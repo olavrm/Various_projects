@@ -9,6 +9,6 @@ Olav Meberg (hereby: "the author") nor the co-author(s) shall not be responsible
 End. 
 
 
-On a more happy note.,
+On a more happy note., \n
 If you find any of the reading interesting, do not hesitate to contact me if you have any questions :)
 Please help yourself to find my contact info here: https://www.linkedin.com/in/olavroedmeberg1996/
